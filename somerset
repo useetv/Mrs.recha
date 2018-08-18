@@ -9,7 +9,7 @@ http://50.7.198.170:8081/Ind/STARPLUS/playlist.m3u8
 http://50.7.198.170:8081/Ind/STARPLUSHD/playlist.m3u8
 
 #EXTINF:0 channel-id="" tvg-id="STAR PLUS UK" group-title="Entertainment",STAR PLUS UK
-http://216.144.250.174/Star_Plus_HD/tracks-1a1/mono.m3u8
+http://216.144.250.174/Star_Plus_HD/tracks-v1a1/playlist.m3u8
 
 #EXTINF:0 channel-id="" tvg-id="ZEE TV" group-title="Entertainment",ZEE TV
 http://z5ams.akamaized.net/zeetvsd/tracks-v2a1/index.m3u8
