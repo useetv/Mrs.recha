@@ -5,11 +5,11 @@
 #EXTINF:0 channel-id="" tvg-id="STAR PLUS" group-title="Entertainment",STAR PLUS
 http://50.7.198.170:8081/Ind/STARPLUS/playlist.m3u8
 
+#EXTINF:0 channel-id="" tvg-id="STAR PLUS" group-title="Entertainment",STAR PLUS
+http://216.144.250.174/Star_Plus_HD/tracks-v1a1/index.m3u8
+
 #EXTINF:0 channel-id="" tvg-id="STAR PLUS HD" group-title="Entertainment",STAR PLUS HD
 http://50.7.198.170:8081/Ind/STARPLUSHD/playlist.m3u8
-
-#EXTINF:0 channel-id="" tvg-id="STAR PLUS UK" group-title="Entertainment",STAR PLUS UK
-http://216.144.250.174/Star_Plus_HD/tracks-v1a1/playlist.m3u8
 
 #EXTINF:0 channel-id="" tvg-id="ZEE TV" group-title="Entertainment",ZEE TV
 http://z5ams.akamaized.net/zeetvsd/tracks-v2a1/index.m3u8
@@ -132,11 +132,11 @@ https://z5ams.akamaized.net/zcinemahd/tracks-v2a1/index.m3u8
 #EXTINF:0 channel-id="" tvg-id="STAR GOLD" group-title="Movies",STAR GOLD
 http://50.7.198.170:8081/Ind/STARGOLD/playlist.m3u8
 
+#EXTINF:0 channel-id="" tvg-id="STAR GOLD" group-title="Movies",STAR GOLD
+http://216.144.250.174/Star_Gold_HD/tracks-v1a1/index.m3u8
+
 #EXTINF:0 channel-id="" tvg-id="STAR GOLD HD" group-title="Movies",STAR GOLD HD
 http://50.7.198.170:8081/Ind/STARGOLDHD/playlist.m3u8
-
-#EXTINF:0 channel-id="" tvg-id="STAR GOLD UK" group-title="Movies",STAR GOLD UK
-http://216.144.250.174/Star_Gold_HD/tracks-v1a1/index.m3u8
 
 #MOVIES OK
 #STAR GOLD SELECT (HIGH DEFINITION)
