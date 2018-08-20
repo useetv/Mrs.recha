@@ -3,7 +3,7 @@
 ###################### HINDI ENTERTAINMENT ######################
 
 #EXTINF:0 channel-id="" tvg-id="STAR PLUS" group-title="Entertainment",STAR PLUS
-http://50.7.198.170:8081/Ind/STARPLUS/playlist.m3u8
+http://62.210.78.84:25461/live/hindijj/nkhsdbaj/204.ts
 
 #EXTINF:0 channel-id="" tvg-id="STAR PLUS" group-title="Entertainment",STAR PLUS
 http://216.144.250.174/Star_Plus_HD/tracks-v1a1/index.m3u8
@@ -238,9 +238,11 @@ http://mhms7.airtel.tv/PLTV/88888888/224/3221226446/index.m3u8
 
 #STAR SPORTS 1
 #STAR SPORTS 1 (HIGH DEFINITION)
-http://89.248.172.75:8088/live/starspitrs1hindi/playlist.m3u8?id=31774&pk=6cc15ce2a640ed8949c322bd68226be30250fc214d17434429876ea4af2700c1
+http://50.7.198.170:8081/abcd/starsports2/playlist.m3u8
 #STAR SPORTS 2
 #STAR SPORTS 2 (HIGH DEFINITION)
+http://50.7.198.170:8081/abcd/starsports2/playlist.m3u8
+
 #STAR SPORTS HINDI 1
 #STAR SPORTS HINDI 1 (HIGH DEFINITION)
 #STAR SPORTS SELECT 1
@@ -956,8 +958,6 @@ http://cdn.asianetmobiletvplus.online/channels/isaiaruvi_gvrkulcfwmgiiayfrlmcore
 
 #EXTINF:0 channel-id="" tvg-id="Sun Life" group-title="Tamil",Sun Life
 http://cshms4.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226536/index.m3u8
-
-#SUN MUSIC
 
 #EXTINF:0 channel-id="" tvg-id="Sun Music" group-title="Tamil",Sun Music
 http://cshms4.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226518/index.m3u8
